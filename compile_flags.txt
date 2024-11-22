@@ -2,4 +2,5 @@
 -Wextra
 -std=c++11
 -Iinclude
+-I/opt/homebrew/include
 -Llib

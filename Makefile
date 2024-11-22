@@ -1,7 +1,7 @@
 TARGET := simgame
 
 CXX := g++
-CXXFLAGS := -Wall -Wextra -std=c++11 -Iinclude -Llib
+CXXFLAGS := -Wall -Wextra -std=c++11 -Iinclude -I/opt/homebrew/include -Llib
 
 .PHONY: run
 run: $(TARGET)
