@@ -1,5 +1,9 @@
 # Artifacts
 /simgame
 
+# Dependencies
+include/
+lib/
+
 # Mac
 .DS_Store
